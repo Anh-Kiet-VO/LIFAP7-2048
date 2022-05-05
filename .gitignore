@@ -1,0 +1,6 @@
+/build/
+/dist/
+/target/
+./nb-configuration.xml
+./best_score.txt
+.ini
